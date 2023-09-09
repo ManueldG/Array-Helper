@@ -1,6 +1,7 @@
 {
     "name": "manueldg/prova-composer",
     "description": "test",
+    "minimum Stability": "stable",
     "type": "library",
     "license": "MIT",
     "autoload": {
