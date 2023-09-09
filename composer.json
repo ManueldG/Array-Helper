@@ -1,7 +1,7 @@
 {
     "name": "manueldg/prova-composer",
     "description": "test",
-    "minimum Stability": "stable",
+    
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -15,5 +15,6 @@
             "email": "manuel.dellagala@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
