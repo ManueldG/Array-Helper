@@ -1,0 +1,18 @@
+{
+    "name": "manueldg/prova-composer",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Manueldg\\ProvaComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manuel della Gala",
+            "email": "manuel.dellagala@gmail.com"
+        }
+    ],
+    "require": {}
+}
