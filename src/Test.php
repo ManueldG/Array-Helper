@@ -1,0 +1,6 @@
+<?
+namespace app;
+
+class Test{
+
+}
