@@ -1,6 +1,6 @@
 {
-    "name": "manueldg/array-helper",
-    "description": "test",
+    "name": "manueldg/array_helper",
+    "description": "Array helper",
     
     "type": "library",
     "license": "MIT",
