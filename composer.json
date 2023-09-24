@@ -16,5 +16,6 @@
         }
     ],
     "minimum-stability": "stable",
+    "version": "1.0.0",
     "require": {}
 }
