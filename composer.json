@@ -15,7 +15,7 @@
             "email": "manuel.dellagala@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "version": "1.0.0",
     "require": {}
 }
