@@ -1,5 +1,5 @@
 <?
-namespace app;
+
 
 class ArrayHelper {
 
